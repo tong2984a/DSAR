@@ -6,4 +6,4 @@
 - [demo-opensource-cookie2.mp4](demo-opensource-cookie2.mp4)
    - another cookie manager that showcases more tracking parameters that may fall within scope of applicable regulations.
 - [demo-prototype.mp4](demo-prototype.mp4)
-   - this is an open source prototype that I made. What sets it apart is the focus on the business side of the decision making process. The inspiration came from working with some local startups here in HK. I wonder if you see any (upsell) value in this tool, and if so, whether Zerion would like to fund this project?
+   - this is an open source prototype that I made. What sets it apart is the focus on the business side of the decision making process. The inspiration came from working with some local startups here in HK. 
